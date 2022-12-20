@@ -1,0 +1,17 @@
+{
+  "name": "nodejs_tutorial",
+  "version": "1.0.0",
+  "description": "## What is nodejs? - Earlier, JS is limited to browsers only. - So, developers created nodejs so that we can use JS out of browsers. Now we can run JS on servers.",
+  "main": "11_npm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node 11_npm.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "lodash": "^4.17.21"
+  }
+}
